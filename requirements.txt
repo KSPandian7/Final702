@@ -1,0 +1,59 @@
+# ===============================
+# Core Scientific Computing
+# ===============================
+numpy
+pandas
+scikit-learn
+
+# ===============================
+# Image Processing
+# ===============================
+opencv-python
+Pillow
+scikit-image
+
+# ===============================
+# Deep Learning (PyTorch)
+# ===============================
+torch
+torchvision
+torchaudio
+
+# ===============================
+# Visualization
+# ===============================
+matplotlib
+seaborn
+plotly
+
+# ===============================
+# Metrics & Evaluation
+# ===============================
+scipy
+
+# ===============================
+# Progress & Utilities
+# ===============================
+tqdm
+
+# ===============================
+# Deployment
+# ===============================
+streamlit
+
+# ===============================
+# Jupyter Environment
+# ===============================
+jupyter
+ipykernel
+notebook
+
+
+streamlit
+torch
+torchvision
+opencv-python
+numpy
+matplotlib
+Pillow
+
